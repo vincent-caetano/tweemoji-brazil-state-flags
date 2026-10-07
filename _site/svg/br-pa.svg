@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-pa-title br-pa-desc">
-<title id="br-pa-title">Pará state flag</title>
-<desc id="br-pa-desc">Stylized Brazilian federative-unit flag. Main fields and symbols retained; proportions normalized to emoji canvas.</desc>
-<defs><clipPath id="br-pa-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
-<g clip-path="url(#br-pa-clip)"><rect x="0" y="5" width="36" height="26" fill="#E5323E"/><polygon points="0,5 7.5,5 36,25.5 36,31 28.5,31 0,10.5" fill="#FFFFFF"/><polygon points="18,14.7 18.815,16.879 21.138,16.98 19.318,18.428 19.94,20.67 18,19.386 16.06,20.67 16.682,18.428 14.862,16.98 17.185,16.879" fill="#55ACEE"/></g>
-</svg>

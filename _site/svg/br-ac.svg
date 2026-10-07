@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-ac-title br-ac-desc">
-<title id="br-ac-title">Acre state flag</title>
-<desc id="br-ac-desc">Stylized Brazilian federative-unit flag. Main fields and symbols retained; proportions normalized to emoji canvas.</desc>
-<defs><clipPath id="br-ac-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
-<g clip-path="url(#br-ac-clip)"><rect x="0" y="5" width="36" height="26" fill="#269B59"/><polygon points="0,5 36,5 0,31" fill="#FFCC33"/><polygon points="5.5,7.9 6.142,9.617 7.973,9.697 6.539,10.837 7.028,12.603 5.5,11.592 3.972,12.603 4.461,10.837 3.027,9.697 4.858,9.617" fill="#E5323E"/></g>
-</svg>

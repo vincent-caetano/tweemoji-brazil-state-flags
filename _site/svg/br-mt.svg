@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-mt-title br-mt-desc">
-<title id="br-mt-title">Mato Grosso state flag</title>
-<desc id="br-mt-desc">Stylized Brazilian federative-unit flag. Main fields and symbols retained; proportions normalized to emoji canvas.</desc>
-<defs><clipPath id="br-mt-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
-<g clip-path="url(#br-mt-clip)"><rect x="0" y="5" width="36" height="26" fill="#253B80"/><polygon points="18,8 33,18 18,28 3,18" fill="#FFFFFF"/><circle cx="18" cy="18" r="6.2" fill="#269B59"/><polygon points="18,12.2 19.432,16.029 23.516,16.208 20.317,18.753 21.409,22.692 18,20.436 14.591,22.692 15.683,18.753 12.484,16.208 16.568,16.029" fill="#FFCC33"/></g>
-</svg>

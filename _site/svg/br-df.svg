@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-df-title br-df-desc">
-<title id="br-df-title">Distrito Federal state flag</title>
-<desc id="br-df-desc">Stylized Brazilian federative-unit flag. Cross arms and arrow tips redrawn; open diamond retained.</desc>
-<defs><clipPath id="br-df-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
-<g clip-path="url(#br-df-clip)"><rect x="0" y="5" width="36" height="26" fill="#FFFFFF"/><rect x="11.3" y="11.3" width="13.4" height="13.4" fill="#269B59"/><g transform="rotate(0 18 18)"><polygon points="17.1,16.8 17.1,13.6 16.2,13.6 18,11.7 19.8,13.6 18.9,13.6 18.9,16.8" fill="#FFCC33"/></g><g transform="rotate(90 18 18)"><polygon points="17.1,16.8 17.1,13.6 16.2,13.6 18,11.7 19.8,13.6 18.9,13.6 18.9,16.8" fill="#FFCC33"/></g><g transform="rotate(180 18 18)"><polygon points="17.1,16.8 17.1,13.6 16.2,13.6 18,11.7 19.8,13.6 18.9,13.6 18.9,16.8" fill="#FFCC33"/></g><g transform="rotate(270 18 18)"><polygon points="17.1,16.8 17.1,13.6 16.2,13.6 18,11.7 19.8,13.6 18.9,13.6 18.9,16.8" fill="#FFCC33"/></g><polygon points="18,15.2 20.8,18 18,20.8 15.2,18" fill="#FFCC33"/><polygon points="18,16.55 19.45,18 18,19.45 16.55,18" fill="#269B59"/></g>
-</svg>
