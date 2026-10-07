@@ -1,0 +1,23 @@
+{
+  "name": "tweemoji-brazil-state-flags",
+  "version": "1.0.0",
+  "private": true,
+  "description": "27 original Twemoji-inspired Brazilian state flags: SVG masters and transparent PNG exports",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "export": "node scripts/export.cjs",
+    "verify": "python3 scripts/verify-svg.py && node scripts/verify.cjs"
+  },
+  "devDependencies": {
+    "sharp": "0.35.5"
+  },
+  "author": "Vincent Caetano",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincent-caetano/tweemoji-brazil-state-flags.git"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,31 @@
+name: Validate assets
+on:
+  push:
+    branches: [main, dev]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - run: npm ci --ignore-scripts
+      - run: npm audit --audit-level=high
+      - run: npm run verify
+      - run: npm run build
+      - name: Check generated vector sources and metadata
+        run: git diff --exit-code -- svg metadata react-native
+      - run: npm run export
+      - run: npm run verify

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-ro-title br-ro-desc">
+<title id="br-ro-title">Rondônia state flag</title>
+<desc id="br-ro-desc">Stylized Brazilian federative-unit flag. Main fields and symbols retained; proportions normalized to emoji canvas.</desc>
+<defs><clipPath id="br-ro-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
+<g clip-path="url(#br-ro-clip)"><rect x="0" y="5" width="36" height="13.015" fill="#253B80"/><rect x="0" y="18" width="36" height="13.015" fill="#FFCC33"/><polygon points="18,18 36,31 0,31" fill="#269B59"/><polygon points="18,11.8 19.21,15.035 22.66,15.186 19.957,17.336 20.88,20.664 18,18.758 15.12,20.664 16.043,17.336 13.34,15.186 16.79,15.035" fill="#FFFFFF"/></g>
+</svg>
