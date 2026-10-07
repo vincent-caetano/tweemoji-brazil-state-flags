@@ -36,7 +36,7 @@ These are **custom illustrations inspired by [Twemoji](https://github.com/twitte
 
 ## Quick start
 
-[Download the collection](https://github.com/vincent-caetano/tweemoji-brazil-state-flags/archive/refs/heads/main.zip), or clone it:
+[Download the collection](https://github.com/vincent-caetano/tweemoji-brazil-state-flags/releases/latest/download/brazil-state-flags.zip), or clone it:
 
 ```sh
 git clone https://github.com/vincent-caetano/tweemoji-brazil-state-flags.git
