@@ -23,6 +23,7 @@ jobs:
           python-version: '3.12'
       - run: npm ci --ignore-scripts
       - run: npm audit --audit-level=high
+      - run: npm run gallery:test
       - run: npm run verify
       - run: npm run build
       - name: Check generated vector sources and metadata

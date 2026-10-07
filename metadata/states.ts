@@ -13,7 +13,9 @@ export const brazilStates = {
       "512": "png/512/br-ac.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Acre.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "AL": {
     "code": "AL",
@@ -28,7 +30,9 @@ export const brazilStates = {
       "512": "png/512/br-al.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Alagoas.svg",
-    "simplification": "Crest redrawn as star, shield, hills, water, wreath and ribbon; micro-detail omitted."
+    "simplification": "Crest redrawn as star, blue chief with three silver fish, tower, hills, waves, vegetation and ribbon; micro-detail omitted.",
+    "officialSource": "https://cultura.al.gov.br/municipios/bandeiras-e-brasoes/brasoes-de-alagoas/o-brasao-de-alagoas",
+    "review": "Primary reference checked"
   },
   "AP": {
     "code": "AP",
@@ -43,7 +47,9 @@ export const brazilStates = {
       "512": "png/512/br-ap.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Amapá.svg",
-    "simplification": "Fort reduced to a four-point plan; separator bands thickened for small sizes."
+    "simplification": "Fort reduced to a four-point plan; separator bands thickened for small sizes.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "AM": {
     "code": "AM",
@@ -58,7 +64,9 @@ export const brazilStates = {
       "512": "png/512/br-am.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Amazonas.svg",
-    "simplification": "61 small stars plus the central star retained; spacing normalized; tiny stars read as texture below 36px."
+    "simplification": "61 small stars plus the central star retained; spacing normalized; tiny stars read as texture below 36px.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "BA": {
     "code": "BA",
@@ -73,7 +81,9 @@ export const brazilStates = {
       "512": "png/512/br-ba.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Bahia.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "CE": {
     "code": "CE",
@@ -88,7 +98,9 @@ export const brazilStates = {
       "512": "png/512/br-ce.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Ceará.svg",
-    "simplification": "Crest retains crown, shield and landscape; tiny heraldic details omitted."
+    "simplification": "Crest retains five-merlon crown, seven stars and four landscape scenes; fine details omitted.",
+    "officialSource": "https://www.ce.gov.br/wp-content/uploads/2021/04/GOC-0019-21-Manual-de-Identidade-Visual-2021.pdf",
+    "review": "Primary reference checked"
   },
   "DF": {
     "code": "DF",
@@ -103,7 +115,9 @@ export const brazilStates = {
       "512": "png/512/br-df.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg",
-    "simplification": "Cross arms and arrow tips redrawn; open diamond retained."
+    "simplification": "Cross arms and arrow tips redrawn; open diamond retained.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "ES": {
     "code": "ES",
@@ -118,7 +132,9 @@ export const brazilStates = {
       "512": "png/512/br-es.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Espírito_Santo.svg",
-    "simplification": "Motto retained in geometric path lettering, straightened; very small text is decorative at 18px."
+    "simplification": "Motto retained in geometric path lettering, straightened; very small text is decorative at 18px.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "GO": {
     "code": "GO",
@@ -133,7 +149,9 @@ export const brazilStates = {
       "512": "png/512/br-go.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Flag_of_Goiás.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": "https://goias.gov.br/simbolos-estaduais/",
+    "review": "Primary reference checked"
   },
   "MA": {
     "code": "MA",
@@ -148,7 +166,9 @@ export const brazilStates = {
       "512": "png/512/br-ma.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Maranhão.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "MT": {
     "code": "MT",
@@ -163,7 +183,9 @@ export const brazilStates = {
       "512": "png/512/br-mt.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "MS": {
     "code": "MS",
@@ -178,7 +200,9 @@ export const brazilStates = {
       "512": "png/512/br-ms.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Mato_Grosso_do_Sul.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": "https://agenciadenoticias.ms.gov.br/simbolos/",
+    "review": "Primary reference checked"
   },
   "MG": {
     "code": "MG",
@@ -193,7 +217,9 @@ export const brazilStates = {
       "512": "png/512/br-mg.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Minas_Gerais.svg",
-    "simplification": "Motto retained around triangle in geometric path lettering; not legible at smallest sizes."
+    "simplification": "Motto retained around triangle in geometric path lettering; not legible at smallest sizes.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "PA": {
     "code": "PA",
@@ -208,7 +234,9 @@ export const brazilStates = {
       "512": "png/512/br-pa.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Pará.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "PB": {
     "code": "PB",
@@ -223,7 +251,9 @@ export const brazilStates = {
       "512": "png/512/br-pb.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_da_Paraíba.svg",
-    "simplification": "NEGO retained as original geometric path lettering."
+    "simplification": "NEGO retained as original geometric path lettering.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "PR": {
     "code": "PR",
@@ -238,7 +268,9 @@ export const brazilStates = {
       "512": "png/512/br-pr.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Paraná.svg",
-    "simplification": "Wreath and Southern Cross retained; curved band flattened and lettering simplified."
+    "simplification": "Wreath and Southern Cross retained; curved band flattened and lettering simplified.",
+    "officialSource": "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=8367",
+    "review": "Primary reference checked"
   },
   "PE": {
     "code": "PE",
@@ -253,7 +285,9 @@ export const brazilStates = {
       "512": "png/512/br-pe.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Pernambuco.svg",
-    "simplification": "Rainbow, star, sun and cross retained; sun reduced to sixteen rays."
+    "simplification": "Rainbow, star, sun and cross retained; sun reduced to sixteen rays.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "PI": {
     "code": "PI",
@@ -268,7 +302,9 @@ export const brazilStates = {
       "512": "png/512/br-pi.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Piauí.svg",
-    "simplification": "2005 date retained as geometric lettering, without cedilla; decorative at small sizes."
+    "simplification": "2005 date retained as geometric lettering, with cedilla; decorative at small sizes.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "RJ": {
     "code": "RJ",
@@ -283,7 +319,9 @@ export const brazilStates = {
       "512": "png/512/br-rj.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_do_Rio_de_Janeiro.svg",
-    "simplification": "Crest retains star, wreath, landscape, medallion and ribbon; inscriptions omitted."
+    "simplification": "Crest retains silver star, vegetation, landscape, eagle, medallion and blue ribbon; inscriptions omitted.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "RN": {
     "code": "RN",
@@ -298,7 +336,9 @@ export const brazilStates = {
       "512": "png/512/br-rn.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Rio_Grande_do_Norte.svg",
-    "simplification": "Crest retains shield, vegetation, fort and boat; inscriptions omitted."
+    "simplification": "Crest retains shield, coconut and carnauba palms, cane, cotton and sailing raft; inscriptions omitted.",
+    "officialSource": "https://www.al.rn.leg.br/storage/revistas/2020/01/10/e6393538c40b5dee5d4311363457b635.pdf",
+    "review": "Primary reference checked"
   },
   "RS": {
     "code": "RS",
@@ -313,7 +353,9 @@ export const brazilStates = {
       "512": "png/512/br-rs.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Rio_Grande_do_Sul.svg",
-    "simplification": "Crest retains white oval, flags, shield, liberty cap, wreath and ribbon; inscriptions omitted."
+    "simplification": "Crest retains white oval, flags, columns, green rhombus, liberty cap and ribbon; inscriptions omitted.",
+    "officialSource": "https://estado.rs.gov.br/simbolos",
+    "review": "Primary reference checked"
   },
   "RO": {
     "code": "RO",
@@ -328,7 +370,9 @@ export const brazilStates = {
       "512": "png/512/br-ro.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rondônia.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "RR": {
     "code": "RR",
@@ -343,7 +387,9 @@ export const brazilStates = {
       "512": "png/512/br-rr.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Roraima.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "SC": {
     "code": "SC",
@@ -358,7 +404,9 @@ export const brazilStates = {
       "512": "png/512/br-sc.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Catarina.svg",
-    "simplification": "Crest retains eagle, shield, anchor, crossed tools and wreath; inscriptions omitted."
+    "simplification": "Crest retains white star, brown eagle, liberty cap, white shield, crossed gold key and anchor, coffee and wheat; inscriptions omitted.",
+    "officialSource": "https://www.scm.sc.gov.br/decreto-n-605-de-19-de-fevereiro-de-1954-simbolos-estaduais/",
+    "review": "Primary reference checked"
   },
   "SP": {
     "code": "SP",
@@ -373,7 +421,9 @@ export const brazilStates = {
       "512": "png/512/br-sp.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_estado_de_São_Paulo.svg",
-    "simplification": "Brazil map hand-redrawn as an approximate silhouette; four canton stars retained."
+    "simplification": "Brazil map hand-redrawn as an approximate silhouette; four canton stars retained.",
+    "officialSource": "https://sts.al.sp.gov.br/arquivos/documentacao/simbolos-do-estado-de-sao-paulo/",
+    "review": "Primary reference checked"
   },
   "SE": {
     "code": "SE",
@@ -388,7 +438,9 @@ export const brazilStates = {
       "512": "png/512/br-se.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Sergipe.svg",
-    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas."
+    "simplification": "Main fields and symbols retained; proportions normalized to emoji canvas.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   },
   "TO": {
     "code": "TO",
@@ -403,7 +455,9 @@ export const brazilStates = {
       "512": "png/512/br-to.png"
     },
     "reference": "https://commons.wikimedia.org/wiki/File:Bandeira_do_Tocantins.svg",
-    "simplification": "Sun uses sixteen broad rays; official fields adapted to shared proportions."
+    "simplification": "Sun uses sixteen broad rays; official fields adapted to shared proportions.",
+    "officialSource": null,
+    "review": "Composition reference checked"
   }
 } as const;
 export type BrazilStateCode = keyof typeof brazilStates;

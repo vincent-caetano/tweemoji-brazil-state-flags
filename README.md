@@ -17,13 +17,16 @@ Editable SVGs. Transparent PNGs. One consistent visual system.
 [![Code: MIT](https://img.shields.io/badge/code-MIT-292F33)](LICENSE)
 [![Artwork: CC BY 4.0](https://img.shields.io/badge/artwork-CC_BY_4.0-FFCC33)](LICENSE-ARTWORK.md)
 
-[Gallery](#the-collection) · [Quick start](#quick-start) · [React Native](#react-native--expo) · [Design](docs/DESIGN.md) · [Contribute](CONTRIBUTING.md)
+[Interactive gallery](https://vincent-caetano.github.io/tweemoji-brazil-state-flags/) · [Quick start](#quick-start) · [React Native](#react-native--expo) · [Design](docs/DESIGN.md) · [Accuracy review](docs/ACCURACY.md) · [Contribute](CONTRIBUTING.md)
 
 </div>
 
 ---
 
 ## The collection
+
+[Explore the interactive gallery →](https://vincent-caetano.github.io/tweemoji-brazil-state-flags/) Search by name, code or region, switch backgrounds, preview 18–144px sizes and download individual SVGs or PNGs. Each flag includes design notes and reference links.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="preview/brazil-state-flags-dark.png" />
@@ -149,3 +152,12 @@ Created by [Vincent Caetano](https://github.com/vincent-caetano).
 - **Composition references:** [Brazilian flag gallery](https://en.wikipedia.org/wiki/List_of_Brazilian_flags#First-level_administrative_divisions), with individual Wikimedia Commons links recorded in metadata. Reference thumbnails are not distributed.
 
 A ready-to-use attribution example is included in [the artwork license](LICENSE-ARTWORK.md).
+
+### Run the gallery locally
+
+```sh
+npm run gallery:build
+python3 -m http.server 8080 --directory _site
+```
+
+Open `http://localhost:8080`. The gallery is static, has no runtime dependencies, trackers or third-party fonts, and is published through GitHub Pages. Run `npm run gallery:test` to check search and download mappings.
