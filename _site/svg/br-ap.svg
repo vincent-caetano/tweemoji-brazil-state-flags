@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-ap-title br-ap-desc">
+<title id="br-ap-title">Amapá state flag</title>
+<desc id="br-ap-desc">Stylized Brazilian federative-unit flag. Fort reduced to a four-point plan; separator bands thickened for small sizes.</desc>
+<defs><clipPath id="br-ap-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
+<g clip-path="url(#br-ap-clip)"><rect x="0" y="5" width="36" height="13.015" fill="#253B80"/><rect x="0" y="18" width="36" height="13.015" fill="#FFCC33"/><polygon points="0,5 9,13 36,13 36,23 9,23 0,31" fill="#292F33"/><polygon points="0,5.8 9.4,13.7 36,13.7 36,22.3 9.4,22.3 0,30.2" fill="#FFFFFF"/><polygon points="0,6.6 9.8,14.4 36,14.4 36,21.6 9.8,21.6 0,29.4" fill="#269B59"/><polygon points="5.6,14.6 6.4,16.7 8.5,17.5 6.4,18.3 5.6,20.4 4.8,18.3 2.7,17.5 4.8,16.7" fill="#FFFFFF"/><polygon points="5.6,15.5 6.1,17 7.6,17.5 6.1,18 5.6,19.5 5.1,18 3.6,17.5 5.1,17" fill="#292F33"/><polygon points="5.6,16 7.1,17.5 5.6,19 4.1,17.5" fill="#269B59"/></g>
+</svg>

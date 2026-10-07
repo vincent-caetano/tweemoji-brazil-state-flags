@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-rr-title br-rr-desc">
+<title id="br-rr-title">Roraima state flag</title>
+<desc id="br-rr-desc">Stylized Brazilian federative-unit flag. Main fields and symbols retained; proportions normalized to emoji canvas.</desc>
+<defs><clipPath id="br-rr-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
+<g clip-path="url(#br-rr-clip)"><rect x="0" y="5" width="36" height="26" fill="#FFFFFF"/><polygon points="0,5 29,5 0,19.5" fill="#55ACEE"/><polygon points="7,31 36,16.5 36,31" fill="#269B59"/><polygon points="18,12.1 19.457,15.995 23.611,16.177 20.357,18.766 21.468,22.773 18,20.478 14.532,22.773 15.643,18.766 12.389,16.177 16.543,15.995" fill="#FFCC33"/><rect x="0" y="27.9" width="36" height="0.65" fill="#E5323E"/></g>
+</svg>

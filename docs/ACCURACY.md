@@ -26,7 +26,7 @@ All flags were compared for recognizable fields, stripe order, canton placement 
 | Additional primary composition references | GO, MS, PR, SP |
 | Composition reference review | AC, AP, AM, BA, DF, ES, MA, MT, MG, PA, PB, PE, PI, RJ, RO, RR, SE, TO |
 
-Each gallery entry exposes its coverage and simplification note. `officialSource` is present only for a primary reference inspected in this review; the composition reference is available for every flag.
+Each metadata entry exposes its coverage and simplification note. `officialSource` is present only for a primary reference inspected in this review; the composition reference is available for every flag.
 
 ## Remaining interpretation limits
 

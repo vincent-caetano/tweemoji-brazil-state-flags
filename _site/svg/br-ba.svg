@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-labelledby="br-ba-title br-ba-desc">
+<title id="br-ba-title">Bahia state flag</title>
+<desc id="br-ba-desc">Stylized Brazilian federative-unit flag. Main fields and symbols retained; proportions normalized to emoji canvas.</desc>
+<defs><clipPath id="br-ba-clip"><rect y="5" width="36" height="26" rx="4"/></clipPath></defs>
+<g clip-path="url(#br-ba-clip)"><rect x="0" y="5" width="36" height="6.515" fill="#FFFFFF"/><rect x="0" y="11.5" width="36" height="6.515" fill="#E5323E"/><rect x="0" y="18" width="36" height="6.515" fill="#FFFFFF"/><rect x="0" y="24.5" width="36" height="6.515" fill="#E5323E"/><rect x="0" y="5" width="13" height="13" fill="#253B80"/><polygon points="6.5,7 11.3,15.8 1.7,15.8" fill="#FFFFFF"/></g>
+</svg>
