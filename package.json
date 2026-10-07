@@ -6,7 +6,9 @@
   "scripts": {
     "build": "python3 scripts/build.py",
     "export": "node scripts/export.cjs",
-    "verify": "python3 scripts/verify-svg.py && node scripts/verify.cjs"
+    "verify": "python3 scripts/verify-svg.py && node scripts/verify.cjs && node scripts/verify-cities.cjs",
+    "export:cities": "python3 scripts/verify-svg.py && node scripts/export-cities.cjs",
+    "test:cities": "node --test scripts/cities.test.cjs"
   },
   "devDependencies": {
     "sharp": "0.35.5"

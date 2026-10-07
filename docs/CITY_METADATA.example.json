@@ -1,0 +1,13 @@
+{
+  "id": "br-sp-3509502",
+  "country": "BR",
+  "state": "SP",
+  "ibgeCode": "3509502",
+  "name": "Campinas",
+  "license": "CC-BY-4.0",
+  "contributor": { "name": "YOUR NAME", "url": "https://github.com/YOUR-USERNAME" },
+  "sources": [
+    { "title": "REPLACE with official flag source", "url": "https://example.org/replace-with-official-source", "accessed": "2026-10-07" }
+  ],
+  "simplification": "REPLACE with the actual preserved, simplified and omitted details."
+}

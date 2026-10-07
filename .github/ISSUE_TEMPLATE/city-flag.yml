@@ -1,0 +1,40 @@
+name: City flag contribution
+description: Claim a locality or propose its emoji flag.
+title: "[City flag] City — UF"
+body:
+  - type: markdown
+    attributes:
+      value: "Search existing issues and cities/ before claiming a locality. Read CONTRIBUTING.md and docs/CITY_AGENT_PROMPT.md."
+  - type: input
+    id: locality
+    attributes:
+      label: City / locality and state
+      placeholder: Campinas — SP
+    validations:
+      required: true
+  - type: input
+    id: ibge
+    attributes:
+      label: Seven-digit IBGE code and record URL
+      placeholder: "3509502 — https://www.ibge.gov.br/cidades-e-estados/sp/campinas.html"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Official flag reference
+      description: Link a prefeitura, municipal law, official manual or other primary reference. Explain if no primary source is available.
+    validations:
+      required: true
+  - type: textarea
+    id: design
+    attributes:
+      label: Design plan and known uncertainties
+      description: Essential shapes to preserve, details to simplify, and source/license conflicts.
+  - type: checkboxes
+    id: duplicate
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and city folders for this locality.
+          required: true

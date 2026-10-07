@@ -6,7 +6,8 @@ import xml.etree.ElementTree as ET
 
 root = Path(__file__).resolve().parents[1]
 allowed = {'svg', 'title', 'desc', 'defs', 'clipPath', 'g', 'rect', 'path', 'polygon', 'circle', 'ellipse'}
-for file in sorted((root / 'svg').glob('*.svg')):
+files = sorted((root / 'svg').glob('*.svg')) + sorted((root / 'cities').rglob('*.svg'))
+for file in files:
     source = file.read_text()
     assert '<!DOCTYPE' not in source.upper() and '<!ENTITY' not in source.upper(), file.name
     document = ET.fromstring(source)
@@ -22,4 +23,4 @@ for file in sorted((root / 'svg').glob('*.svg')):
             for match in re.findall(r'url\(([^)]+)\)', value):
                 assert match.startswith('#') and match[1:] in ids, (file.name, match)
     assert len(ids) == len([node for node in document.iter() if 'id' in node.attrib]), file.name
-print('Verified passive SVG elements, unique IDs, and local-only references in 27 masters.')
+print(f'Verified passive SVG elements, unique IDs, and local-only references in {len(files)} masters.')

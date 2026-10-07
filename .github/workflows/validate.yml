@@ -22,10 +22,12 @@ jobs:
         with:
           python-version: '3.12'
       - run: npm ci --ignore-scripts
+      - run: npm run test:cities
       - run: npm audit --audit-level=high
       - run: npm run verify
       - run: npm run build
       - name: Check generated vector sources and metadata
         run: git diff --exit-code -- svg metadata react-native
       - run: npm run export
+      - run: npm run export:cities
       - run: npm run verify

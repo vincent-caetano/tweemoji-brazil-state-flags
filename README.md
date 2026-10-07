@@ -194,6 +194,13 @@ npm run verify
 
 ## Contributing
 
+**Bring your city flag to the collection.** The 27 state flags are available now; city contributions are open. Our long-term target is 5,571 Brazilian localities: 5,569 municipalities, Brasília and Fernando de Noronha ([IBGE classification](https://educa.ibge.gov.br/jovens/materias-especiais/22754-um-pais-com-quase-seis-mil-municipios.html)). Coverage depends on verified flag references and reviewed contributions.
+
+[Copy the coding-agent prompt](docs/CITY_AGENT_PROMPT.md), replace your city and UF, review the result, and submit one locality per PR. Read the [city contribution guide](CONTRIBUTING.md#city-flags) and use the [issue template](https://github.com/vincent-caetano/tweemoji-brazil-state-flags/issues/new?template=city-flag.yml). The PR template loads automatically. Contributor credit stays with each city's metadata.
+
+Other countries' state and city flags are a future direction; propose their scope first. [Social launch copy](docs/SOCIAL_POST.md) is available for sharing the project.
+
+
 Have a better way to simplify a crest, or spotted a flag detail to correct? [Open an issue](https://github.com/vincent-caetano/tweemoji-brazil-state-flags/issues) with the state code and a reliable reference. Read the [contribution guide](CONTRIBUTING.md) before submitting a change.
 
 ## Credits and licensing
